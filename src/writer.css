@@ -1,0 +1,121 @@
+.sassys {
+  margin-left: 50px;
+  width: 380px;
+  height: 100px;
+  box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.07);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.sassys1 {
+  margin-left: 30px;
+  width: 380px;
+  height: 100px;
+  box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.sassys3 {
+  width: 360px;
+  height: 100px;
+  box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+}
+.dswq {
+  width: 57px;
+  height: 57px;
+  border-radius: 60px;
+}
+.sawq {
+  height: 30px;
+  width: 100px;
+  background-color: crimson;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+@media (max-width: 1024px) {
+  .sassys {
+    margin-left: 60px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+  }
+  .sassys1 {
+    margin-left: 160px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 60;
+  }
+  .sassys3 {
+    margin-left: 300px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+}
+@media (max-width: 768px) {
+  .sassys {
+    margin-left: 10px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+  }
+  .sassys1 {
+    margin-left: 120px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+  .sassys3 {
+    margin-left: 170px;
+    width: 360px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 375px) {
+  .sassys {
+    margin-left: 20px;
+    width: 450px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .sassys1 {
+    margin-left: 20px;
+    width: 450px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .sassys3 {
+    margin-left: 20px;
+    width: 450px;
+    height: 100px;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+}
