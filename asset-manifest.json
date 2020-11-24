@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/writers-club/static/css/main.11e46221.chunk.css",
+    "main.js": "/writers-club/static/js/main.26b7375c.chunk.js",
+    "main.js.map": "/writers-club/static/js/main.26b7375c.chunk.js.map",
+    "runtime-main.js": "/writers-club/static/js/runtime-main.25e0b1e5.js",
+    "runtime-main.js.map": "/writers-club/static/js/runtime-main.25e0b1e5.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/writers-club/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.f6fed292.chunk.js": "/writers-club/static/js/2.f6fed292.chunk.js",
+    "static/js/2.f6fed292.chunk.js.map": "/writers-club/static/js/2.f6fed292.chunk.js.map",
+    "index.html": "/writers-club/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/writers-club/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.11e46221.chunk.css.map": "/writers-club/static/css/main.11e46221.chunk.css.map",
+    "static/js/2.f6fed292.chunk.js.LICENSE.txt": "/writers-club/static/js/2.f6fed292.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25e0b1e5.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.f6fed292.chunk.js",
+    "static/css/main.11e46221.chunk.css",
+    "static/js/main.26b7375c.chunk.js"
+  ]
+}
